@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Mahima</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate frontend and backend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahi7ma&label=Profile%20views&color=0e75b6&style=flat" alt="mahi7ma" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mahi7ma" alt="mahi7ma" /></a> </p>
 
-- 🔭 I’m currently working on **3d social media icons**
+- 🔭 I’m currently working on **Generative AI PROJECT **
 
-- 👯 I’m looking to collaborate on **Contact manager app**
+- 👯 I’m looking to collaborate on **Salesforce manager app**
 
 - 🤝 I’m looking for help with **Password generator system**
 
